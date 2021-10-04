@@ -1,0 +1,18 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-image {
+  height: 150px;
+  width: 150px;
+}
+
+.about-text {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 26px;
+}
